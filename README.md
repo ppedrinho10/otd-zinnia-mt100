@@ -29,3 +29,12 @@ Several different “10moons” tablets can expose the same USB VID/PID. The off
 ## Next technical objective
 
 Capture or derive a reliable T505-specific identification method and verify how `TipDown` is encoded after vendor-mode initialization. Avoid submitting a parser based only on `Pressure > 0` until click/release behavior and low-pressure edge cases are tested.
+
+## Acknowledgements
+
+This research builds upon the previous investigation published in the
+OpenTabletDriver project issue #4301.
+
+Special thanks to GitHub user @zondonaidejr for publishing the initial
+T505 investigation, diagnostics and the 1060N configuration that made
+this research possible.
