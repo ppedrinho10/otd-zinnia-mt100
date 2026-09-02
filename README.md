@@ -1,4 +1,9 @@
 # Zinnia Momentum MT100 / T505 — OpenTabletDriver 0.6.7
+## 📥 Download
+
+**[⬇️ Baixar Zinnia MT100 — OpenTabletDriver v1.0.0](https://github.com/ppedrinho10/otd-zinnia-mt100/releases/download/v1.0.0/ZINNIA-MT100-OpenTabletDriver-v1.0.0.zip)**
+
+> Versão pronta e testada para Windows. Para utilizar pressão via Windows Ink, siga o guia em [`docs/INSTALL-PT-BR.md`](docs/INSTALL-PT-BR.md).
 
 Suporte testado para a mesa digitalizadora **Zinnia Momentum MT100**, identificada pelo Windows como **SZ PING-IT INC. T505 Graphic Tablet** (`VID:PID 08F2:6811`), usando **OpenTabletDriver 0.6.7** no Windows.
 
