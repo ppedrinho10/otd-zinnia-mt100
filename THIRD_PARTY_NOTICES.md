@@ -21,16 +21,18 @@ Assistência técnica durante a investigação, análise e depuração do parser
 - Projeto: OpenTabletDriver
 - Repositório: https://github.com/OpenTabletDriver/OpenTabletDriver
 - Versão utilizada/testada neste projeto: 0.6.7
+- Licença: LGPL-3.0
 
 O código, os binários e a marca OpenTabletDriver pertencem aos seus respectivos autores/contribuidores e permanecem sujeitos à licença do projeto upstream.
 
 ## VoiDPlugins / Windows Ink
 
-O suporte Windows Ink utilizado nos testes é fornecido por **VoiDPlugins / Windows Ink**, associado aos autores/contribuidores do projeto correspondente, incluindo Kuuuube e X9VoiD nas versões utilizadas com OpenTabletDriver 0.6.7.
+O suporte Windows Ink utilizado nos testes é fornecido pelo projeto **VoiDPlugins**.
 
-Obtenha o plugin por sua fonte oficial/indicada pelo ecossistema OpenTabletDriver e respeite a licença upstream.
+- Repositório: https://github.com/X9VoiD/VoiDPlugins
+- Licença: GPL-3.0
 
-Este repositório não reivindica autoria do plugin Windows Ink.
+Este repositório não reivindica autoria do plugin Windows Ink. Obtenha-o pela fonte upstream e respeite sua respectiva licença.
 
 ## VMulti
 
@@ -38,7 +40,7 @@ Este repositório não reivindica autoria do plugin Windows Ink.
 
 - Distribuição utilizada/recomendada: https://github.com/X9VoiD/vmulti-bin
 
-VMulti deve ser obtido de sua fonte oficial e permanece sujeito às licenças e créditos dos respectivos autores.
+VMulti deve ser obtido de sua fonte upstream e permanece sujeito às licenças e créditos dos respectivos autores.
 
 Este repositório não reivindica autoria do VMulti.
 
